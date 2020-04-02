@@ -13,7 +13,7 @@ Your config.json should look like this after editing:
 {
     "webhook" : "https://canary.discordapp.com/api/webhooks/WEBHOOK LINK",
     "hexcode" : "#F1B379",
-    "icon" : "ICON URL HERE", //Icon can be left blank if you don't have an icon, Must be a URL if not
+    "icon" : "ICON URL HERE OR LEAVE EMPTY",
     "groupName" : "GROUP NAME HERE"
 }
 ```
