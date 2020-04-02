@@ -27,7 +27,7 @@ func initializeData() (*supnews.Config, error) {
 		return &supnews.Config{}, errors.New("Invalid webhook passed, must be a URL")
 	}
 	if !strings.HasPrefix(config.Icon, "https") {
-		if len(config.Icon) == 0 {
+		if len(config.Icon) == 0 || config.Icon == "ICON URL HERE OR LEAVE EMPTY" {
 			config.Icon = ""
 		} else {
 			return &supnews.Config{}, errors.New("Invalid icon passed, must be a URL")
