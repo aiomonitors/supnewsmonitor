@@ -40,4 +40,8 @@ go run supnewsmonitor.go
 This should automatically download all the dependencies required for the monitor / tool.
 Otherwise, run `go mod download`
 
+#### Finished Product:
+![supnews](https://www.shihab.dev/supnews.png)
+
+
 Created by Shihab Chowdhury [Site](https://www.shihab.dev) | [Twitter](https://twitter.com/aiomonitors) | [Email](mailto:navr@discoders.us)
