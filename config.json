@@ -1,6 +1,6 @@
 {
-    "webhook" : "https://canary.discordapp.com/api/webhooks/653020504290230283/Wgm-k-P4nx_ExRwyDeHyV9eatYK-ztn4SIKk17qcupfE4rPqkJ4NsPkqpZH7tgL8bLj0",
+    "webhook" : "https://canary.discordapp.com/api/webhooks/WEBHOOK LINK",
     "hexcode" : "#F1B379",
-    "icon" : "",
-    "groupName" : "tools"
+    "icon" : "ICON URL HERE", 
+    "groupName" : "GROUP NAME HERE"
 }
